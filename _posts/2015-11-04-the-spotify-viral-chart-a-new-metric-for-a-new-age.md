@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.spotifyartists.com/spotify-viralchart/'
 title: 'The Spotify Viral Chart: A New Metric for a New Age'
-datePublished: '2015-11-04T19:22:41.256Z'
-dateModified: '2015-11-04T19:18:48.530Z'
+datePublished: '2015-11-04T19:23:42.279Z'
+dateModified: '2015-11-04T19:17:59.296Z'
 sourcePath: _posts/2015-11-04-the-spotify-viral-chart-a-new-metric-for-a-new-age.md
 published: true
 inFeed: true
