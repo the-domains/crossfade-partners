@@ -4,7 +4,7 @@
         <description><![CDATA[crossfade partners - nyc]]></description>
         <link>https://thegrid.ai/crossfade-partners/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 Nov 2015 22:11:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2015 22:11:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/crossfade-partners/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Neuroscience Of Music]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.wired.com/2011/01/the-neuroscience-of-music/</link>
             <guid isPermaLink="false">4bf714f7-f016-4866-a722-87739ba5bb56</guid>
             <pubDate>Wed, 04 Nov 2015 19:33:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Guided and automated analytics from the cloud.]]></title>
+            <description><![CDATA[<article><h1>Guided and automated analytics from the cloud.</h1><p>Get data discovery capabilities and visualizations you can use to understand your business on your own. No data science or advanced modeling skills are required.</p><img src="https://www.ibm.com/web/wcm/connect/analytics/83aef8b7-e2c0-4ec8-8024-33aa03568f31/whatiswatsonanalytics_video460.png?MOD=AJPERES&CACHEID=83aef8b7-e2c0-4ec8-8024-33aa03568f31"></article>]]></description>
+            <link>http://www.ibm.com/analytics/watson-analytics/</link>
+            <guid isPermaLink="false">7e22a187-f640-4c4a-81d7-dd5dc5b6c087</guid>
+            <pubDate>Wed, 04 Nov 2015 22:10:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Microgroove Storefront]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.billboard.com/biz/articles/6745286/universal-music-group-announces-new-exec-management-board-reshapes-intl</link>
             <guid isPermaLink="false">044306f9-9e95-4e0f-a236-9b1b48f345d4</guid>
             <pubDate>Wed, 04 Nov 2015 19:14:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Streaming + ticketing + data: A new frontier for the music industry - Music Business Worldwide]]></title>
-            <description><![CDATA[<article><h1>Streaming + ticketing + data: A new frontier for the music industry - Music Business Worldwide</h1><p>The following MBW blog comes from Sammy Andrews (pictured), Head of Digital at Cooking Vinyl - an independent music group whose roster includes The Prodigy, Billy Bragg and Marilyn Manson. Music industry... we are entering a new phase of the streaming economy - finally joining the dots between recorded music data and live.</p><img src="http://www.musicbusinessworldwide.com/files/2013/06/LiveNation-e1424462275528.jpg"></article>]]></description>
-            <link>http://www.musicbusinessworldwide.com/streaming-ticketing-data-new-frontier-music-industry/</link>
-            <guid isPermaLink="false">30b44b21-8e60-45ef-8769-c4ac60e8054f</guid>
-            <pubDate>Wed, 04 Nov 2015 19:07:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
