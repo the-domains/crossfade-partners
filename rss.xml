@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[from here to a better next]]></title>
         <description><![CDATA[from here to a better next]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/crossfade-partners/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 Nov 2015 19:07:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 04 Nov 2015 19:14:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/crossfade-partners/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Universal Music Group Announces New Exec Management Board, Reshapes Int'l Structure]]></title>
+            <description><![CDATA[<article><h1>Universal Music Group Announces New Exec Management Board, Reshapes Int'l Structure</h1><p>Universal Music Group has unveiled a new executive management board and a reshaped international structure which has been redefined into regionally focused hubs to better leverage the group's resources and know-how.</p><img src="http://www.billboard.com/files/media/Lucian-Grainge-amy-2015-billboard-650.jpg"></article>]]></description>
+            <link>http://www.billboard.com/biz/articles/6745286/universal-music-group-announces-new-exec-management-board-reshapes-intl</link>
+            <guid isPermaLink="false">044306f9-9e95-4e0f-a236-9b1b48f345d4</guid>
+            <pubDate>Wed, 04 Nov 2015 19:14:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Streaming + ticketing + data: A new frontier for the music industry - Music Business Worldwide]]></title>
             <description><![CDATA[<article><h1>Streaming + ticketing + data: A new frontier for the music industry - Music Business Worldwide</h1><p>The following MBW blog comes from Sammy Andrews (pictured), Head of Digital at Cooking Vinyl - an independent music group whose roster includes The Prodigy, Billy Bragg and Marilyn Manson. Music industry... we are entering a new phase of the streaming economy - finally joining the dots between recorded music data and live.</p><img src="http://www.musicbusinessworldwide.com/files/2013/06/LiveNation-e1424462275528.jpg"></article>]]></description>
