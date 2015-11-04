@@ -4,7 +4,7 @@
         <description><![CDATA[crossfade partners - nyc]]></description>
         <link>https://thegrid.ai/crossfade-partners/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 Nov 2015 22:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2015 22:13:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/crossfade-partners/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Neuroscience Of Music]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.wired.com/2011/01/the-neuroscience-of-music/</link>
             <guid isPermaLink="false">4bf714f7-f016-4866-a722-87739ba5bb56</guid>
             <pubDate>Wed, 04 Nov 2015 19:33:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Boatyard]]></title>
+            <description><![CDATA[<article><h1>Boatyard</h1><p>Boatyard connects boat owners to local, verified, boat service professionals. Happiness. Delivered.</p><img src="http://cdn.boatyard.com/opengraph/images/image_01.jpg"></article>]]></description>
+            <link>https://www.boatyard.com/</link>
+            <guid isPermaLink="false">f4ea86b4-7a42-47e3-aa43-9ca532d11ea9</guid>
+            <pubDate>Wed, 04 Nov 2015 22:13:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Guided and automated analytics from the cloud.]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.musicbusinessworldwide.com/free-streaming-income-tumbles-italy-music-market-grows-25/</link>
             <guid isPermaLink="false">5c4de42d-dfc9-4224-9e54-5a05cfd39b72</guid>
             <pubDate>Wed, 04 Nov 2015 19:22:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Universal Music Group Announces New Exec Management Board, Reshapes Int'l Structure]]></title>
-            <description><![CDATA[<article><h1>Universal Music Group Announces New Exec Management Board, Reshapes Int'l Structure</h1><p>Universal Music Group has unveiled a new executive management board and a reshaped international structure which has been redefined into regionally focused hubs to better leverage the group's resources and know-how.</p><img src="http://www.billboard.com/files/media/Lucian-Grainge-amy-2015-billboard-650.jpg"></article>]]></description>
-            <link>http://www.billboard.com/biz/articles/6745286/universal-music-group-announces-new-exec-management-board-reshapes-intl</link>
-            <guid isPermaLink="false">044306f9-9e95-4e0f-a236-9b1b48f345d4</guid>
-            <pubDate>Wed, 04 Nov 2015 19:14:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
