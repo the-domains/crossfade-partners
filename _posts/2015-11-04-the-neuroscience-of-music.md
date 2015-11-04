@@ -12,10 +12,10 @@ related:
     thumbnail_url: 'https://www.sciencenews.org/sites/default/files/main/articles/brain_opener_free_0.jpg'
     thumbnail_width: 860
 publisher:
-  url: 'http://www.wired.com'
   name: WIRED
-  favicon: 'http://www.wired.com/wp-content/themes/Phoenix/assets/images/favicon.ico'
   domain: www.wired.com
+  url: 'http://www.wired.com'
+  favicon: 'http://www.wired.com/wp-content/themes/Phoenix/assets/images/favicon.ico'
 keywords:
   - music
   - beethoven
@@ -32,13 +32,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.wired.com/2011/01/the-neuroscience-of-music/'
 title: The Neuroscience Of Music
-datePublished: '2015-11-04T19:32:59.908Z'
-dateModified: '2015-11-04T19:32:30.529Z'
-sourcePath: _posts/2015-11-04-the-neuroscience-of-music.md
-published: true
+datePublished: '2015-11-04T19:33:50.715Z'
+dateModified: '2015-11-04T19:33:00.048Z'
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
+sourcePath: _posts/2015-11-04-the-neuroscience-of-music.md
+published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
